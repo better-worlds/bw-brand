@@ -8,3 +8,5 @@ Better Worlds is a communication and community building platform comprised of we
 
 # Better Worlds Podcast
 The weekly series is comprised of a twenty-minute guest interviews with corporate sponsor presentations. We have four international anchors that will interview guests. The series is themed around building better worlds.
+
+![Sticker Sheet](legend.jpg?raw=true "Better Worlds Brand Sticker Sheet")
