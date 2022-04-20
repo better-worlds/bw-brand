@@ -1,5 +1,5 @@
 # README
-This folder contains brand assets for Better Worlds and can be found online at https://github.com/naturetechnexus/bw-brand
+This repo contains brand and marketing assets for Better Worlds.
 
 # Social Channels
 - https://twitter.com/onemetaworld
